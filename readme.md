@@ -10,7 +10,7 @@ This is a simple example of how data structures "stacks" and "queues" work in Py
 
 ### Prerequisites
 
-Node
+Node\_\_
 Python
 
 ## Acknowledgments
